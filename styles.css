@@ -1,6 +1,9 @@
 h1{
+	text-align:center;
+	margin:auto;
 	font-size:bold;
 	font-family:"Courier New", monospace;
+	border:hsl(0,100%,50%,1);
 }
 
 li{
