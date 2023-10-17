@@ -1,11 +1,19 @@
+body{
+	background-color:#CCF381;
+}
+
 h1{
 	text-align:center;
 	margin:auto;
 	font-size:bold;
 	font-family:"Courier New", monospace;
-	border:hsl(0,100%,50%,1);
+	border-style:round;
+	border:hsl(0,100%,50%);
+	background-color:#4831D4;
 }
 
-li{
-	font-family:"Courier New",monospace;
+p .recipe{
+	background-color:#4831D4;
+	border:hsl(0,100%,50%);
+	border-style:round;
 }
